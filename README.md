@@ -25,3 +25,4 @@
 
   
 
+![Snake animation](https://github.com/Wise-Wizard/Wise-Wizard/blob/output/github-contribution-grid-snake.svg)

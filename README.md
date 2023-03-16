@@ -1,4 +1,4 @@
-<h1><br>👋 Hello there!<br>🚀 Are you ready to see some out-of-this-world projects?<br>💻 Look no further, because this GitHub profile is where you'll find some of the coolest apps built with the MERN stack and Flutter/Dart!<br>🔍 From E-COM Websites to Social-Media apps, this repository has it all.<br>🧑‍🚀 So put on your space helmet and get ready to blast off into the world of cutting-edge web and mobile development!<br>🌌 Explore the vast universe of amazing projects and find inspiration for your own creations.<br>🚀 Let's embark on an exciting coding journey together!</h1>
+<h3><br>👋 Hello there!<br>🚀 Are you ready to see some out-of-this-world projects?<br><br>💻 Look no further, because this GitHub profile is where you'll find some of the coolest apps built with the MERN stack and Flutter/Dart!<br><br>🔍 From E-COM Websites to Social-Media apps, this repository has it all.<br><br>🧑‍🚀 So put on your space helmet and get ready to blast off into the world of cutting-edge web and mobile development!<br><br>🌌 Explore the vast universe of amazing projects and find inspiration for your own creations.<br><br>🚀 Let's embark on an exciting coding journey together!</h3>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Wise-Wizard&icon=6&color=8)](https://visitcount.itsvg.in)
 
@@ -27,4 +24,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarashankar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarashankar) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

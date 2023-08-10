@@ -28,4 +28,5 @@
 
  
 ## 👇 Watch a Snake eat my Contribution Progress!
-![snake gif](https://github.com/Wise-Wizard/Wise-Wizard/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Wise-Wizard/Wise-Wizard/blob/output/dist/github-contribution-grid-snake.gif)
+

@@ -4,7 +4,7 @@
 <h3><br>👋 Hello there!<br><br>🚀 Are you ready to see some out-of-this-world projects? Look no further,<br><br>💻 This GitHub profile is where you'll find some of the coolest Websites built using MERN Stack<br><br>🤖Machine Learning Models with immense Accuracy<br><br> 📱Also, some of the Innovative Android apps built using Flutter SDK<br><br>🔍 From E-COM Websites to Social-Media apps and to Sentiment Analysis, this repository has it all.<br><br>🧑‍🚀 So put on your space helmet and get ready to blast off into the world of cutting-edge ML, Web and Mobile development!<br><br>🌌 Explore the vast universe of amazing projects and find inspiration for your own creations.<br><br>🚀 Let's embark on an exciting coding journey together!</h3>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://linkedin.com/in/saransh-shankar-93ab65223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saransh-shankar-93ab65223" height="30" width="40" /></a>
 <a href="https://kaggle.com/saranshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saranshshankar" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sar_ansh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sar_ansh._" height="30" width="40" /></a>
